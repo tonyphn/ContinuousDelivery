@@ -1,2 +1,2 @@
-# ContinuousDelivery Demo
+# ContinuousDelivery
  
